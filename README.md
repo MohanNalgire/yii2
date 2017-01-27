@@ -30,8 +30,7 @@
 
 4	Crud operation for view files  
 	there are two ways to create view files 1) With path and 2) alias of views directory  
-	Note:: If you not define any path for the views directory then it will take default path. which is views folder from app.  
-	
+	Note:: If you not define any path for the views directory then it will take default path. which is views folder from app.  	
 	so copy that folder from views directory to your app\modules\<module_name>\views\  
 
 
