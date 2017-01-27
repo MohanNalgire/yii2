@@ -22,11 +22,17 @@
 
 ###use gii tool and crete
 1	module  
+``` 
 	app\modules\<module_name>\<ModuleName>  
+``` 
 2	models  
+```
 	app\modules\<module_name>\models\<ModelName>  
+```
 3	Controllers  
+```
 	app\modules\<module_name>\controllers\<Controller_nameController>  
+```
 
 4	Crud operation for view files  
 	there are two ways to create view files 1) With path and 2) alias of views directory  
